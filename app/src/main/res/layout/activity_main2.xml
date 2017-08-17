@@ -1,0 +1,29 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/background"
+    tools:context="com.example.shago_000.chess.Main2Activity">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="0dip"
+        android:id="@+id/layout1"
+        android:layout_weight="0.25"
+        ></LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="0dip"
+        android:id="@+id/layout2"
+        android:layout_weight="0.7"
+        >
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="0dip"
+        android:layout_weight="0.05"
+        ></LinearLayout>
+
+</LinearLayout>

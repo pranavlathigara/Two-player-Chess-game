@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Chess</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_dialogue_chess">dialogue_chess</string>
+    <string name="title_activity_chess_dialogue">chess_dialogue</string>
+</resources>
